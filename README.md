@@ -7,7 +7,7 @@ Add watermark to your text,writting in go
 
 [Be careful what you copy: Invisibly inserting usernames into text with Zero-Width Characters](https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66)
 
-### Useage
+### Usage
 
 ```
 go get -u github.com/MoYoez/Text-WaterMark
