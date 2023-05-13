@@ -1,6 +1,6 @@
 ## Text-WaterMark
 
-Add watermark to your text,writting in go
+Add watermark to your text,writing in go
 
 
 ### How it works?
