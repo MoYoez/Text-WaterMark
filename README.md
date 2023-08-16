@@ -10,7 +10,7 @@ Add watermark to your text,writing in go
 ### Usage
 
 ```
-go get -u github.com/MoYoez/Text-WaterMark
+go get -u github.com/MoYoez/text-watermark
 ```
 
 ### Example
