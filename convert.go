@@ -69,7 +69,7 @@ func AddWaterMarkToText(s string, watermark string) string {
 	return EncodingMsg
 }
 
-func getWaterMark(str string) string {
+func GetWaterMark(str string) string {
 	usernamePattern := `\p{C}+`
 	re := regexp.MustCompile(usernamePattern)
 	waterMark := re.FindAllString(str, -1)
