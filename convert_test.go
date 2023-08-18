@@ -10,7 +10,7 @@ func TestAddMark(t *testing.T) {
 	encName := "WaterMark"
 	encText := AddWaterMarkToText(rawName, encName)
 	//	fmt.Print(encText)
-	output := getWaterMark(encText)
+	output := GetWaterMark(encText)
 	fmt.Print(output)
 	if output != encName {
 		t.Fatal("work err? rawName: ", rawName, "\nencName:", encName)
